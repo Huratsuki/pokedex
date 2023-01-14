@@ -1,0 +1,98 @@
+body {
+    background-color: whitesmoke;
+  }
+  
+  .container {
+    width: 700px;
+  }
+  
+  #savebutton {
+    margin: 2rem;
+  }
+  
+  #savebutton:hover {
+    background-color: #fff;
+    color: #47a447
+  }
+  
+  .align-remove-button {
+    vertical-align: middle;
+  }
+  
+  .align-remove-button a {
+    cursor: pointer;
+  }
+  
+  .align-remove-button a:hover {
+    color: inherit;
+    /* blue colors for links too */
+    text-decoration: inherit;
+    /* no underline */
+    ;
+  }
+  
+  #badge {
+    padding: 6px;
+    border-radius: 50px;
+  }
+  
+  .Steel {
+    background-color: #f4f4f4;
+  }
+  
+  .Fire {
+    background-color: #FDDFDF;
+  }
+  
+  .Grass {
+    background-color: #DEFDE0;
+  }
+  
+  .Electric {
+    background-color: #FCF7DE;
+  }
+  
+  .Water,
+  .ice {
+    background-color: #DEF3FD;
+  }
+  
+  .Ground {
+    background-color: #f4e7da;
+  }
+  
+  .Rock {
+    background-color: #d5d5d4;
+  }
+  
+  .Fairy {
+    background-color: #fceaff;
+  }
+  
+  .Poison {
+    background-color: #98d7a5;
+  }
+  
+  .Bug {
+    background-color: #f8d5a3;
+  }
+  
+  .Dragon {
+    background-color: #97b3e6;
+  }
+  
+  .Psychic {
+    background-color: #eaeda1;
+  }
+  
+  .Flying {
+    background-color: #F5F5F5;
+  }
+  
+  .Fighting {
+    background-color: #E6E0D4;
+  }
+  
+  .Normal {
+    background-color: #F5F5F5;
+  }
